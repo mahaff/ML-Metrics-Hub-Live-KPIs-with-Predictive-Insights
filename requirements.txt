@@ -1,0 +1,6 @@
+flask
+tensorflow
+pandas
+google-cloud-bigquery
+gunicorn
+flask-cors
